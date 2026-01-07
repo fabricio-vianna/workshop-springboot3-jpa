@@ -29,7 +29,7 @@ public class UserResource {
 	private UserService service;
 
     UserResource(UserRepository userRepository) {
-        this.userRepository = userRepository;
+        this.userRepository = userRepository; 
     }
 	
 	@GetMapping
