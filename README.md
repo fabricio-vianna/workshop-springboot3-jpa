@@ -1,6 +1,10 @@
 # TaskFlow API
 
-API RESTful desenvolvida com **Spring Boot** para gerenciamento de usuários, pedidos, produtos e categorias, seguindo boas práticas de arquitetura em camadas.
+## 💡 Problema
+Sistemas de e-commerce precisam gerenciar usuários, pedidos e produtos de forma eficiente e escalável.
+
+## ✅ Solução
+Esta API fornece uma base estruturada para gerenciamento de pedidos, com arquitetura em camadas e boas práticas REST.
 
 ## 📌 Visão Geral
 
@@ -163,4 +167,3 @@ Consolidar conhecimentos em:
 
 Desenvolvido por Fabricio Vianna
 
-Projeto desenvolvido durante o curso "Java COMPLETO: Programação Orientada a Objetos + Projetos"  ministrado por Nelio Alves.
